@@ -1,4 +1,4 @@
-#Get started with nifti: Read
+# Get started with nifti: Read
 
 I needed to learn the basics of reading nifti images in C/C++. I read some examples here and there. Some were too simple/not informative enough and others were too long/with too much detail. So I decided to write my own to quickly remind myself about how it is done. Maybe you will find it useful also.
 
